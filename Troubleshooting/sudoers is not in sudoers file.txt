@@ -1,0 +1,6 @@
+#This error occurs if your user is not super user. To solve this type the following in the terminal
+
+su
+apt install sudo
+usermod -aG sudo <Enter your user-name here> 
+exit

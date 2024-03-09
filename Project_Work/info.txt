@@ -1,0 +1,33 @@
+Pre-requisites:
+1)A machine with Ubuntu operating system (version 20.04 and onwards) 
+2)A built in web camera to the machine 
+
+Note: In case there is an error in the execution of following steps , we have provided the troubleshooting folder to solve relevant errors. 
+
+Steps to run the code:
+
+1) After extracting the DroneProject folder on your system ,Navigate to the                   DroneProject/Project_Work folder in your system. Open this folder in terminal using the    cd command (e.g- cd Desktop/DroneProject/Project_Work) or right click the folder and       select "Open in terminal" option
+
+2) Run the config.sh file using the command "./config.sh" on terminal.The setup will begin    It will take approximately 1-2 hours for completing the setup
+
+3) A GUI window will open
+
+4) Enter the parameters as asked in the gui window. The parameters must be floating    numbers
+   (For testing you can give parameters as:-
+    altitude = 10.0
+    latitude = 
+    longitude =  
+   )
+
+5) Click 'start delivery' button on GUI window. Several tabs will open
+
+6) Check out the 'MAVProxy map' tab in the task bar. Here the drone operations should be      visible on a map
+
+7) After drone reaches destination(as seen on the map), the web camera of your system will    turn on.  
+
+8) The Project_Work folder has two images of qr code , download any one image on a phone      or other device and show this image to the web camera. 
+
+9) After this the drone operation will continue till it reaches back to the home location     (as seen on the map)
+
+10)This marks the end of the project
+
