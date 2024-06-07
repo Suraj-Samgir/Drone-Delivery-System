@@ -71,4 +71,6 @@ The following is the technical data of A2212/13T
 
 # How to Execute 
 
-1. 
+1. Read the info.txt file for understanding the operations.
+2. Setup the configurations from the config.txt file.
+3. For trouble shooting any errors, read the text file provided in the Troubleshooting folder.
