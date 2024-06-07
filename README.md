@@ -68,3 +68,7 @@ The following is the technical data of A2212/13T
 • Size of the shaft: 3.2 mm
 • Model Weight: 300–800g/10.5–28.2 oz 
 • Poles: 14
+
+# How to Execute 
+
+1. 
